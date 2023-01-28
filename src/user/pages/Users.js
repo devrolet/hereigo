@@ -7,30 +7,30 @@ const Users = () => {
         {
             id: '01', 
             name: 'Chet Hill', 
-            image: 'image/file', 
+            image: 'https://www.pexels.com/photo/gray-mercedez-benz-amg-112460/', 
             places: 3
         },
         {
             id: '02', 
             name: 'Bryon Hill', 
-            image: 'image/file', 
+            image: 'https://www.pexels.com/photo/black-dodge-challenger-coupe-3311574/', 
             places: 3
         },
         {
             id: '03', 
             name: 'Kevin Hill', 
-            image: 'image/file', 
+            image: 'https://www.pexels.com/photo/black-audi-a-series-parked-near-brown-brick-house-909907/', 
             places: 3
         },
         {
             id: '04', 
             name: 'Mike Hill', 
-            image: 'image/file', 
+            image: 'https://www.pexels.com/photo/photo-of-parked-lime-green-lamborghini-2127733/', 
             places: 3
         }
     ];
 
-    <UsersList />
+    <UsersList items={USERS} />
 }
 
 export default Users;
