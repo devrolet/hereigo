@@ -9,8 +9,8 @@ const UsersList = props => {
             <div className="center">
                 <h2>No Users Found.</h2>
             </div>
-        )
-    };
+        );
+    }
 
     return (
         <ul className="users-list">
@@ -25,6 +25,6 @@ const UsersList = props => {
             ))}
     </ul>
     );
-};
+}
 
 export default UsersList;
