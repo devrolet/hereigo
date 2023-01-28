@@ -7,26 +7,26 @@ const Users = () => {
         {
             id: '01', 
             name: 'Chet Hill', 
-            image: 'https://www.pexels.com/photo/gray-mercedez-benz-amg-112460/', 
-            places: 3
+            image: '../../shared/images/chet.jpg', 
+            places: 5
         },
         {
             id: '02', 
             name: 'Bryon Hill', 
-            image: 'https://www.pexels.com/photo/black-dodge-challenger-coupe-3311574/', 
-            places: 3
+            image: '../../shared/images/bryon.jpg', 
+            places: 15
         },
         {
             id: '03', 
             name: 'Kevin Hill', 
-            image: 'https://www.pexels.com/photo/black-audi-a-series-parked-near-brown-brick-house-909907/', 
-            places: 3
+            image: '../../shared/images/kevin.jpg', 
+            places: 9
         },
         {
             id: '04', 
             name: 'Mike Hill', 
-            image: 'https://www.pexels.com/photo/photo-of-parked-lime-green-lamborghini-2127733/', 
-            places: 3
+            image: '../../shared/images/mike.jpg', 
+            places: 10
         }
     ];
 
