@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# HereIGo App
+
+The HereIGo app is a platform that allows users to upload and share images of their travels. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
